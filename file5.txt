@@ -1,2 +1,12 @@
 
+<<<<<<< HEAD
+ihello commit
 hello 5
+=======
+hllo file 
+
+
+
+
+5
+>>>>>>> db304c8 (adding files)
